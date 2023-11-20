@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CSADPRG_MP</string>
+
+    <string-array name="days">
+        <item>Normal Day</item>
+        <item>Rest Day</item>
+        <item>SNWD</item>
+        <item>SNWD + Rest Day</item>
+        <item>Regular Holiday</item>
+        <item>Regular Holiday + Rest Day</item>
+    </string-array>
+</resources>
