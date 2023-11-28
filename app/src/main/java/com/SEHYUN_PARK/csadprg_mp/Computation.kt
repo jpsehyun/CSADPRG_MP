@@ -26,6 +26,11 @@ class Computation {
             this.overTime = 2.6f
             this.nightOverTime = 2.86f
         }
+        else{
+            this.dailyRate = 2.6f
+            this.overTime = 3.38f
+            this.nightOverTime = 3.718f
+        }
     }
 
     companion object{
